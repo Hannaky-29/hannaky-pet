@@ -1,0 +1,8 @@
+target/
+
+# Archivos generados
+/target/
+*.class
+*.war
+.env
+*.env
