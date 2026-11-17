@@ -1,0 +1,22 @@
+/* Ocultar emojis en el menú lateral */
+.sidebar .nav {
+    font-size: 14px;
+}
+
+/* Estilo para el selector de mascotas en el formulario de vacunas */
+select {
+    width: 100%;
+    height: 42px;
+    border: 1px solid #dce1eb;
+    border-radius: 8px;
+    padding: 0 11px;
+    background: white;
+    color: #273248;
+    outline: none;
+    font: inherit;
+    margin-bottom: 15px;
+}
+select:focus {
+    border-color: #8395ed;
+    box-shadow: 0 0 0 3px #4e68d51a;
+}
