@@ -1,0 +1,6 @@
+Evidencia: GA7-220501096-AA3-EV01 - Codificación de módulos del software stand-alone, web y móvil
+Ficha: 3336213
+Proyecto: Hannaky Pet (Módulos Web: Mascotas y Vacunas)
+
+Enlace oficial al repositorio en GitHub:
+https://github.com/Hannaky-29/hannaky-pet
